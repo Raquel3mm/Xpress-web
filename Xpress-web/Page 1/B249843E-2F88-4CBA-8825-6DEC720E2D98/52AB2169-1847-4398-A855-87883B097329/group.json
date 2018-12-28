@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "52AB2169-1847-4398-A855-87883B097329",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 86,
+    "width": 180,
+    "x": 635.0000000000008,
+    "y": 223.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DC6E4DAD-6CC1-4238-B312-363888E116BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BE9E77D-064C-494E-AB24-D70A39D376E6"
+    },
+    {
+      "class": "shapePath",
+      "id": "C5EBCDF1-71DB-44BE-8F70-2F35FFC46308"
+    },
+    {
+      "class": "shapePath",
+      "id": "5A538C3A-CDCE-468F-A43F-0BC75614F3FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E2C8FFB-E561-4B7C-B50E-5C808CEDD085"
+    },
+    {
+      "class": "shapePath",
+      "id": "02A7EFEF-1A5D-4C2A-90F2-BCAE6721235A"
+    },
+    {
+      "class": "rectangle",
+      "id": "EDDC7A07-47A9-48AF-81FF-CC4A48AC68FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD4516A7-AD71-47FC-A41F-E3514D3F2D0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "646BA762-4EDB-4007-A765-696C42A9989E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "745ED9A6-FC4D-4357-849F-1480BF794567"
+    },
+    {
+      "class": "shapePath",
+      "id": "69F95B59-0B22-408A-9E1E-604F7BF542AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "669B3BC8-1F6E-449F-A569-3FE8D37F1974"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4EE3189-4696-4F7B-9CB6-21E5691E614A"
+    },
+    {
+      "class": "shapePath",
+      "id": "D383EC32-E18D-40A4-A3E8-11637380C61C"
+    },
+    {
+      "class": "shapePath",
+      "id": "936A175B-0DC0-4E6D-AF56-728F2A24F76D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6A27C4B-0E58-4933-9096-3B82B9057ED1"
+    }
+  ],
+  "name": "Logo en negro",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
