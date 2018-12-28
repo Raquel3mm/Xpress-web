@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAE27290-38CA-48BF-9E6F-08581757EC4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AAEB367-6B2C-4574-BB11-C5CE28467E01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B1D1556-75D4-47D8-AFBE-17E348B77D10",
+    "height": 65,
+    "width": 379,
+    "x": 890,
+    "y": 563
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F9DF21-19E8-4C50-A749-AD63F7820629",
+      "overrideName": "131B6876-AD9A-4E15-BB80-907C6D13DD63_stringValue",
+      "value": "Nro. de teléfono"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "809C85FD-3B6B-4A8E-A906-165AAB048565",
+      "overrideName": "06C8E23B-3E96-42E8-B10B-910025CB9B5E_symbolID",
+      "value": "51BB21F5-9967-4AA6-93CD-3FBAC31B7670"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A4C48FD-0EAC-42D8-9F32-7A8155DC5D94",
+      "overrideName": "131B6876-AD9A-4E15-BB80-907C6D13DD63_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CDF7AAC-3D3F-4FFA-ABD4-EA0993D773CF",
+      "overrideName": "A1C3B8FB-2E1C-4DEE-86CB-1F00966E39A1_stringValue",
+      "value": "Nro. de teléfono"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D952B5B6-2DD2-4DE9-8403-01ACA59680E6",
+      "overrideName": "1384FE3D-CAF0-475E-B5C4-8A0BC779B446_symbolID",
+      "value": "51BB21F5-9967-4AA6-93CD-3FBAC31B7670"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3897E3C3-52DC-4A21-B6BE-35AE805D794D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6FE50027-B113-457B-B9C4-7C896ED51035",
+  "verticalSpacing": 0
+}

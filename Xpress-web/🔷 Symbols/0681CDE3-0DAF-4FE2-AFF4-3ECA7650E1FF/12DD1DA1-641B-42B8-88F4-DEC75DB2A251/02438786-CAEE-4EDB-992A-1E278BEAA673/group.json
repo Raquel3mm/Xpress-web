@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "02438786-CAEE-4EDB-992A-1E278BEAA673",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B73899C9-24E5-4B66-8C50-29B5112A2848",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE25905C-D9B2-48DA-817E-C641AF0D2F41",
+    "height": 48,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DCDEE8D7-D129-47ED-98C1-3C66DABF71EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1EC0057-910B-4B74-ADF9-326D1368A682"
+    }
+  ],
+  "name": "Vehiculo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B06E9C5-9908-43D9-AC2E-3E2322AC0AFF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

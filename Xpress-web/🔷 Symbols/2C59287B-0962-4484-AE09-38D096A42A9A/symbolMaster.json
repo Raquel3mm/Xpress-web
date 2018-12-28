@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "799965AA-D995-4342-AAD4-03727BCE0A08",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2174,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C59287B-0962-4484-AE09-38D096A42A9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41BE7111-E955-469A-A641-AFD951F61B48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FC0C308-0547-425F-858B-0ADA981798FC",
+    "height": 40,
+    "width": 50,
+    "x": 2645,
+    "y": -255
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "24D7B939-A883-40EA-8712-F114EFD380E4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FA2B1BF9-6287-47AC-BF12-86B943D51C2C"
+    }
+  ],
+  "name": "ico_route 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5EA4065-AB4F-40C3-8F47-ECC16F99ECE3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6D8BF08-F1B5-45DB-82FF-6C16C52128A5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A1D0A23-7AA7-42FA-9640-1642A7E82F6E",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3568B4F7-45E8-4421-AB58-F7D2A68E90CD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25B5AA39-6C48-4FC2-829B-DC4F0860D678",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEEC31A0-730B-4179-B135-7E2FA0527465",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA762511-AB7C-4FFF-9405-E7B9AA2A791F",
+    "height": 1025,
+    "width": 1440,
+    "x": 28159,
+    "y": -16359
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "01D141E6-020C-4BFE-B99B-A60B7F8BEBF0",
+    "guides": [
+      890,
+      1269
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "069DDD5F-6D68-4702-B1AB-502EB1B4D90D"
+    },
+    {
+      "class": "text",
+      "id": "CB120FCF-A851-4ED2-BDDB-9B485508FBB7"
+    },
+    {
+      "class": "text",
+      "id": "8D4B74A5-60C4-44CF-9762-F97E588F687F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4437E86-87F8-439E-B3F9-65F6B1CF10FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7530B6D7-6405-4332-A5D2-FE62528857C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98764BE9-A67D-43C8-AC26-092CFBDF9D13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9EB23E06-4A76-4B9B-9D44-8870E66577BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0723403-BB26-46AC-92A5-5FD6FBE85F8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8ECF470-D585-4A9F-9977-0D2901EF1620"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63BB96FF-2448-45CE-AD4E-558DFE4B26C9"
+    },
+    {
+      "class": "rectangle",
+      "id": "E9DE8788-E2B4-42F9-884F-3788ADD7C1AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BB62F8F-42C0-47F2-90ED-79D336A6AD34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED8E5A70-F365-46B2-9357-D4C2CE6CF9D5"
+    },
+    {
+      "class": "text",
+      "id": "D6329E3B-6D60-4821-BD51-EC3E558DF643"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27D5C583-4D9A-4C48-97C0-C9C51017FF3A"
+    },
+    {
+      "class": "group",
+      "id": "66AE8CCB-03FF-4739-BC6B-A61D192C964D"
+    }
+  ],
+  "name": "4.6 Registro de Usuario - Registro con Correo",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44A8B5AC-7CA0-4E26-8E48-5FD2B8CF3A36",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BDF60215-8C38-440C-B12C-01BA73AD070C",
+    "guides": [
+    ]
+  }
+}

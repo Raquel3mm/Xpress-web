@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B29C8E4-79A4-4861-8620-4A5F40E1979E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "159B2EC4-A815-4AE3-B2CC-BA7843580735",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7231755-3326-4715-A8CF-10ED93E26BCC",
+    "height": 40,
+    "width": 280,
+    "x": 0,
+    "y": 66
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DBF4ED5C-A01C-467F-8CCB-057FB25A15F7",
+      "overrideName": "9B0954D6-5BA7-4D76-A5C8-1D1F0FB8BFFC_stringValue",
+      "value": "Google"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AB47791-EF0A-4791-AB9C-714F231655F4",
+      "overrideName": "B3814624-6416-4E0D-8198-D21061ED1D40_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAFBF7AE-DA6B-4C2F-82DB-6E684FF1D463",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE655775-6318-4745-8037-514411A27186",
+  "verticalSpacing": 0
+}

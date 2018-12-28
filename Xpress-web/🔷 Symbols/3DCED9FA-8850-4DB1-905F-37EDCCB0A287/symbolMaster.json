@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "13094CA8-A770-4370-9CB2-90F9540662B2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 967,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DCED9FA-8850-4DB1-905F-37EDCCB0A287",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D12C6857-827C-40E2-AF55-F43D5ED373BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "269D2606-E9F7-47DC-8D48-FED7F5238724",
+    "height": 54,
+    "width": 70,
+    "x": 1077,
+    "y": -255
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "39D862E3-1382-4886-95A9-99EAEEC1E90B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "8F46C047-3C66-404E-8B92-9B2938C5FA89"
+    }
+  ],
+  "name": "img_carro 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3835865A-E494-4130-A787-19659B53D36E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45611679-5990-4F7B-9031-B208124C2021",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6366EC29-E948-4696-9CAE-3CD44E8818AD",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "565FC0B7-A01B-48DA-8253-F23D49A198C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70790739-9D9F-4FEF-88B4-C877D08DFBCB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86FB6A05-404D-48DF-A0F5-8AF4D26688ED",
+    "height": 48,
+    "width": 240,
+    "x": 0,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Black/Textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EADEE4D-0A50-499F-89EF-2168D1FD0974",
+      "overrideName": "4CE462B9-48D6-4032-93A8-135FD087BEB8_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2684B214-D4A9-4628-B5BF-9242277CCC69",
+      "overrideName": "4CE462B9-48D6-4032-93A8-135FD087BEB8_stringValue",
+      "value": "Tipo de documento"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2914F54C-D953-40F9-B736-4278F5455CCE",
+      "overrideName": "099924C8-A190-454C-8DE6-E9EE5D8FEE58_symbolID",
+      "value": "1B1D2B19-D2C3-4CFA-B07D-3D5AD5C57C95"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07B5B734-F19D-42A9-8B49-67F7EA386C1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F83F442E-2C27-4B9F-A19B-6FB8E858FA6D",
+  "verticalSpacing": 0
+}

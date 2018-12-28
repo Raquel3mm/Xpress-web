@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ABF7C188-AC7D-4B3F-9BDF-9F894A2D7D54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27D0E50D-88CD-45EB-9517-C49384EAEEE5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28146002-7772-4F77-890E-FB63D6CB7D66",
+    "height": 1024,
+    "width": 1101,
+    "x": -381,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E52742AF-9E2C-4E5A-8920-227F24FED5E1"
+    },
+    {
+      "class": "bitmap",
+      "id": "427A2A38-80A6-4AF7-9348-67C7A1FF38BF"
+    }
+  ],
+  "name": "1.1 Login - Uuario",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27A617B3-810C-46D7-BB00-390141E7D551",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

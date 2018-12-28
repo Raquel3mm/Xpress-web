@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "13BECB7C-A741-42B6-93FE-64D7CF7A2D95",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 21841,
+  "clippingMaskMode": 0,
+  "do_objectID": "2BBF2BB2-CAC3-43D8-BED8-BBF3E309F0E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BD85886-6CFC-4DD4-A9BC-100BDC1AAB61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CBCBC96-EAE3-46E2-918C-37684836DB06",
+    "height": 120,
+    "width": 552,
+    "x": 1827,
+    "y": 196
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8276DBF1-508F-49BD-816F-65ADC5E38CE1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EBAD98B2-5AFE-479F-B9E5-9500874D01E8"
+    },
+    {
+      "class": "text",
+      "id": "D82974D2-31AF-49CD-85B0-9B3B3F79F262"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "873C06F8-3054-4B8A-842F-8E82251D74F2"
+    },
+    {
+      "class": "text",
+      "id": "4B880534-69DC-45B5-9115-D8EB1E4F2409"
+    },
+    {
+      "class": "text",
+      "id": "6DACEC69-017C-4BDF-8502-B2D6488FFE99"
+    },
+    {
+      "class": "text",
+      "id": "92A981E4-1E03-4FE6-AC67-730B653F27FB"
+    },
+    {
+      "class": "text",
+      "id": "DBB1D1F9-8CA6-4A7A-B15B-6AC0123621E5"
+    },
+    {
+      "class": "text",
+      "id": "F936CBFE-B3E2-4A00-B2CB-1CA960923ABD"
+    }
+  ],
+  "name": "Orden web",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36B2BC83-9F3B-471B-BB36-0F7120CD3E03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E056C88A-02C7-446D-B395-150E8A0E5B9B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1F47BF43-07A5-4AC7-8B85-F92B54193508",
+    "guides": [
+    ]
+  }
+}

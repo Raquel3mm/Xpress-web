@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "695FD6B3-9E4E-41EB-ABA1-7D48CE7AFD88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BEB6EDE-C60B-40B9-B473-E088F05DD07F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D73718C-37D0-4762-8DFF-7A3C7604B91D",
+    "height": 65,
+    "width": 379,
+    "x": 891,
+    "y": 1298
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F9DF21-19E8-4C50-A749-AD63F7820629",
+      "overrideName": "9CB8526A-8D1A-4A1A-9F4C-30A26EDFA380_stringValue",
+      "value": "Correo eletrónico"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "809C85FD-3B6B-4A8E-A906-165AAB048565",
+      "overrideName": "0A9CE201-C97E-4A24-85C0-6A6222747EFE_symbolID",
+      "value": "1532237E-6B8F-43C5-A3F3-7AAA178A2650"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5524313C-56A0-4AFE-B6D2-3DDCC567A705",
+      "overrideName": "9CB8526A-8D1A-4A1A-9F4C-30A26EDFA380_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE0E4A87-3089-4CD0-BC66-516AD5216826",
+      "overrideName": "8F53DFEB-52B3-495C-B293-DBBF64096018_stringValue",
+      "value": "CV_alex_moreno.dot"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "817D8652-9DEB-45E4-BCBE-D0D926FDD04E",
+      "overrideName": "B9CB8C50-6618-4496-99B9-721B1CC22FE2_symbolID",
+      "value": "22D4B64D-0762-4864-AECF-6A9B79B97AA3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A67270D-8DD1-4B36-B300-C980749E4E7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5999C39C-8E03-4315-8246-F11C323B32DE",
+  "verticalSpacing": 0
+}

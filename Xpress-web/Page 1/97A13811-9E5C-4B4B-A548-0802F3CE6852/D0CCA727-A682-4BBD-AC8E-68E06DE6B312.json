@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0CCA727-A682-4BBD-AC8E-68E06DE6B312",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7327DECD-7A1D-4285-B9FD-F80420831B54",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21372817-6698-4271-A183-A05B869179E8",
+    "height": 65,
+    "width": 440,
+    "x": 208,
+    "y": 605
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tipos de servicio Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84C0A889-5F51-49FE-A1BD-489E2ED1D13C",
+      "overrideName": "8C79E092-DDFE-46E1-982A-028F6A0A45C6_stringValue",
+      "value": "max. 30 paquetes 70x70x60"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "856F1FA9-0534-41F5-98BF-103270B35EB6",
+      "overrideName": "110A8365-47B8-4323-AABE-EE95F0DC0353_symbolID",
+      "value": "A274A4DC-4030-4B0D-BE63-E913AB622D04"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8EF4D7F-4911-4040-A9E0-AC72EC1A4826",
+      "overrideName": "F595C80B-4377-4DF7-9891-0EC7051EAB36_stringValue",
+      "value": "Pagar con efectivo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDB7A646-DBEB-4E24-A4AA-C12CA4449E7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "01669D8C-8D4E-4C06-AC6A-506CFADA5266",
+  "verticalSpacing": 0
+}

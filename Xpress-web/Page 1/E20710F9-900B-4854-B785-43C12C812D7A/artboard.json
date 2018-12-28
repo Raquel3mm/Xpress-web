@@ -1,0 +1,122 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1B536BB0-F876-49D2-B520-F6EBCA3F5D7C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E20710F9-900B-4854-B785-43C12C812D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3B83D9E-E43E-4FD8-8F1F-A9CB9D09F8FB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC4E6F51-61B5-4058-B074-9876957A07D4",
+    "height": 1024,
+    "width": 1440,
+    "x": 29590,
+    "y": -20260
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9951B7CC-0E9B-4F14-A3C7-D745C2DE6BAE",
+    "guides": [
+      890,
+      1270
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0D0513FB-7579-4765-9FDD-798A5264CAFD"
+    },
+    {
+      "class": "text",
+      "id": "2AF220F6-D375-4774-B399-E47DBEED6DDD"
+    },
+    {
+      "class": "text",
+      "id": "C8EFA113-9167-4A4A-B5BC-82034226A83F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48C078FB-5E5A-4C8E-B28C-8A44193BC570"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A6B0D4F-7BA5-4E3F-93B1-8858A83239FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D0F58DD-AC0A-4B72-9B99-A34D01011E2E"
+    },
+    {
+      "class": "text",
+      "id": "FB6E9A78-E2D6-4B38-BF07-41D2EC778A5F"
+    }
+  ],
+  "name": "6.6 Reiniciar contrasenia - full",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88B02E04-0227-43C6-A057-68489B50A6ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "66632497-EF32-408F-8241-29AE3DB53135",
+    "guides": [
+    ]
+  }
+}

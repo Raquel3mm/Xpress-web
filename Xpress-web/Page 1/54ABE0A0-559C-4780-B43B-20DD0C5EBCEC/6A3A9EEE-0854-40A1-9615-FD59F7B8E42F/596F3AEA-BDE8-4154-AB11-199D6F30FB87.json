@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "596F3AEA-BDE8-4154-AB11-199D6F30FB87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DFCB65D-B495-40B9-BEBE-BD4AA76CEB48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DEEEAF5-827F-4D77-881B-60541A90CA4B",
+    "height": 48,
+    "width": 240,
+    "x": 598,
+    "y": 312.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBE872A5-D5EE-4621-8330-BF52BECD2558",
+      "overrideName": "D8DD6B3A-00A1-436A-BCF9-54392424055B_symbolID",
+      "value": "EA7E22A3-7DF2-4313-8193-3A72DED2A709"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6917B570-E7A2-4189-BA8A-AD65AEF8D36C",
+      "overrideName": "23B1FD8A-DEC4-4977-9EB0-A620245750AA_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "467FC862-6CBC-4952-B8B0-0556CBBA21DD",
+      "overrideName": "23B1FD8A-DEC4-4977-9EB0-A620245750AA_stringValue",
+      "value": "Número de la tarjeta"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F898B3E-CB88-4CDB-A5F2-4736E4A631CC",
+      "overrideName": "9AD2725C-8CE8-426F-84F0-1730EE5E5136_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E54BA7D-F3BE-4629-9F31-E3CB1B95471E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F4EEAF0-4F94-44B4-B6F5-23ED6B097893",
+  "verticalSpacing": 0
+}

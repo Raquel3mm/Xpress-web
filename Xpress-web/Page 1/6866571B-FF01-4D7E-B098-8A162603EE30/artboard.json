@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C482F186-0C87-44FD-973D-EC4509A685B2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6866571B-FF01-4D7E-B098-8A162603EE30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA945F3B-86CA-4BD5-A84D-B0081BF3E14B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "950DEFB0-F954-4352-85A1-D7C24C545C03",
+    "height": 1024,
+    "width": 1440,
+    "x": 31130,
+    "y": -20260
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E2F08AD-246F-4CED-8DC0-899F613436F6",
+    "guides": [
+      890,
+      1270
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "23495A93-69A6-43BA-9A60-FE85CC2DCA44"
+    },
+    {
+      "class": "text",
+      "id": "23874E01-8019-4F3A-BF94-3E84F92DCE22"
+    },
+    {
+      "class": "text",
+      "id": "23A7CFF6-8233-4CF4-845F-208865E75D69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47C0B7F4-7CC9-4D43-8699-680BD88B29FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2638EB47-B7B0-45FE-9D57-BBD1E94F9C04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "078BD4B0-CF92-4041-A892-59C25082D5FC"
+    },
+    {
+      "class": "text",
+      "id": "4E638422-83DC-48CF-AEE3-E781B9C3D84A"
+    },
+    {
+      "class": "rectangle",
+      "id": "104E7E35-219F-4A74-A497-27C507E182B9"
+    },
+    {
+      "class": "group",
+      "id": "E5DA5F6D-1592-4BB3-997D-A2905D897827"
+    }
+  ],
+  "name": "6.7 Reiniciar contrasenia - Confirmacion",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79BB7BC7-9CA4-43DC-9C5A-161CC21FBDE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CC86F5A8-C4BF-445D-9BE0-3993AB89FE04",
+    "guides": [
+    ]
+  }
+}

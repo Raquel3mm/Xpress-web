@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "767B4490-4F14-4F4B-A261-BC7C1F1969C3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1088,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E46DE55-A067-4FD7-A829-6ABF53C70DC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4868419-A0C0-40C5-8F8C-6FADAB38D23D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F27E41B-8399-487E-B899-6CE1D89B4A31",
+    "height": 40,
+    "width": 132,
+    "x": 757,
+    "y": -107
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FF78B9C1-B79E-43A7-B7A0-FCD958705F94",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B80C2FF3-C7C8-49D6-A1A4-BD23CCDC2BBD"
+    }
+  ],
+  "name": "Form/Textbox short v2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB53CD71-BDA9-46C3-8B6F-B0A9D1F8AC77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06B68B69-B111-400F-AD63-AD2BD6072629",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "266DB64F-522A-4E2E-B1E5-4A2023998630",
+    "guides": [
+    ]
+  }
+}

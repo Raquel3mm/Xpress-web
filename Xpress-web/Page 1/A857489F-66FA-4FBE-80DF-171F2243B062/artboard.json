@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "85C69535-8562-4FE7-ABA3-4225E150B391",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A857489F-66FA-4FBE-80DF-171F2243B062",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E2AADE3-21C1-41B6-A277-F0B448D6EC4A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "944A9575-ECE0-4758-BC23-5673C2D72665",
+    "height": 1024,
+    "width": 1440,
+    "x": 21890,
+    "y": -20260
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "229A90A2-7E65-43BA-8410-300A829040F3",
+    "guides": [
+      890,
+      1270
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "64794D56-9898-4269-9927-0AFBD4FDBC8B"
+    },
+    {
+      "class": "text",
+      "id": "16115B86-E4C4-4370-9D7E-823A7D2441A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A46DF66A-0300-49CB-AA2C-A338C26B8477"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BBC68CB-D274-48E7-998A-8839CFD66739"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC30BEBD-51D6-4654-93BD-70C5387EDA6E"
+    },
+    {
+      "class": "group",
+      "id": "E8C7D5DD-77D2-4640-93A9-B2C2301BA6FF"
+    }
+  ],
+  "name": "6.1 Olvide contrasenia",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1075D0A5-DDF1-4C7C-8B69-2242D0BCE045",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3CAD4B6E-9488-4AA2-AE87-3767D5F67870",
+    "guides": [
+    ]
+  }
+}

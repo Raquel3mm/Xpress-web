@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8C677A8-D374-48A0-8253-9A8FCB472693",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0ACD411-CF67-4C68-8EA3-5D2231D3BF3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03B40CBD-55BF-4666-89D1-D53699A57A31",
+    "height": 72,
+    "width": 72,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "8056C14B-C818-4090-A073-48CF8B5DDAA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBC413BE-65E3-4EC5-BFCD-81FAA988490E"
+    }
+  ],
+  "name": "Oval-modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58C8247C-B142-4793-9732-C1B1F5A86411",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

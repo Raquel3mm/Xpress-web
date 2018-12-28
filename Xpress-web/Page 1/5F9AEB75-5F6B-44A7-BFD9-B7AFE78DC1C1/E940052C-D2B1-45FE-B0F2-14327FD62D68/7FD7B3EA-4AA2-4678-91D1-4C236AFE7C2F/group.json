@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FD7B3EA-4AA2-4678-91D1-4C236AFE7C2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADDFC152-7ED8-47EE-ADC0-87D0B9C04D42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66843DD4-F1CB-4D10-9E83-C6669A0630BB",
+    "height": 337,
+    "width": 320,
+    "x": 560,
+    "y": 178.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E1E0F13D-6B43-4D1B-A3F9-26C0962F4CBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F817BE3-E595-4665-AEE2-A80058A5B07D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53EB80D7-47D8-46D2-97C2-9B8BB046A25E"
+    },
+    {
+      "class": "text",
+      "id": "F335E2F2-13C9-407F-BBE1-D0523822DA03"
+    },
+    {
+      "class": "group",
+      "id": "EA6012B3-0882-4AE1-8D5B-960F4F2A91F8"
+    },
+    {
+      "class": "group",
+      "id": "D39BDADD-8B61-498A-86E5-ECB0C7A23289"
+    },
+    {
+      "class": "text",
+      "id": "B10E8976-44A9-4BEC-8943-49CB5B72AEBC"
+    },
+    {
+      "class": "text",
+      "id": "0233072B-4439-4FC5-8FCC-0CC3380D4681"
+    },
+    {
+      "class": "group",
+      "id": "414C592B-3B25-4CDD-BB8E-92FACB0D092F"
+    },
+    {
+      "class": "group",
+      "id": "BF6A3554-CFCA-4D2E-A967-6AEB0CEC6076"
+    },
+    {
+      "class": "text",
+      "id": "913B39F9-7C7D-4026-AFAE-F1D4D21E290D"
+    },
+    {
+      "class": "text",
+      "id": "A90BBADC-8FE3-4298-85B0-00D2BBD486B9"
+    },
+    {
+      "class": "text",
+      "id": "95E6ED98-A2F2-46B9-88A8-10C321AEC84F"
+    }
+  ],
+  "name": "Aug-calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D203C73F-5912-4C47-AEC5-50790BF5B135",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

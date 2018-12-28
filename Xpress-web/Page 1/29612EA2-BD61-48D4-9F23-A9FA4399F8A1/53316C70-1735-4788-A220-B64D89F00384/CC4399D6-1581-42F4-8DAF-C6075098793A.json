@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC4399D6-1581-42F4-8DAF-C6075098793A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7964E49-5ECE-45BC-B5FD-91F5A5052A0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B4D4B74-AEFF-4CB2-8780-379F1E0610B4",
+    "height": 48,
+    "width": 240,
+    "x": 264,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6CE4B8B-23D6-4ED3-97E8-8F921464742D",
+      "overrideName": "099924C8-A190-454C-8DE6-E9EE5D8FEE58_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "473B3E7D-C4E0-4298-AB40-1A36945AC028",
+      "overrideName": "4CE462B9-48D6-4032-93A8-135FD087BEB8_textStyle",
+      "value": "20EC1026-ECF0-4628-9FB3-D14DB872EE30"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34EB3A37-0974-4D49-B45B-623EBE0E030B",
+      "overrideName": "4CE462B9-48D6-4032-93A8-135FD087BEB8_stringValue",
+      "value": "Moreno"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71DFD1B7-B3F2-463C-8192-FCC457AA5E9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F83F442E-2C27-4B9F-A19B-6FB8E858FA6D",
+  "verticalSpacing": 0
+}

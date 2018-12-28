@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 16003,
+  "clippingMaskMode": 0,
+  "do_objectID": "D18A9F07-E44A-4F3A-8886-C7E6B17708F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 235,
+    "width": 1024,
+    "x": 10462,
+    "y": 740
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4406E238-7714-4216-ACEA-CA2D205F2E98"
+    },
+    {
+      "class": "group",
+      "id": "934A81ED-7345-4963-AABC-F176CD830987"
+    },
+    {
+      "class": "rectangle",
+      "id": "144D3C61-D582-4D9E-90CD-4F23DE9AAA52"
+    },
+    {
+      "class": "group",
+      "id": "13F4A9CB-EC60-43EB-B888-EEB6545E5C6C"
+    },
+    {
+      "class": "group",
+      "id": "678D83C9-AE98-43F5-952B-85D2DC60A22F"
+    },
+    {
+      "class": "group",
+      "id": "04AF9B25-541C-439A-8E16-FF830A2C2810"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3291BEE3-6C31-428F-A8B6-68FCA1966933"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B784B94-6AD5-494F-AB35-F59BD496F4C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C7E7D1B-0CD7-4ED1-8268-F686306E3921"
+    },
+    {
+      "class": "group",
+      "id": "6B8B1EC0-6659-4A33-BF3B-E11F0CC5849E"
+    }
+  ],
+  "name": "Historial/Orden Pendiente",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6B70444C-13AB-4C12-BEFC-168ABDEB6FCD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

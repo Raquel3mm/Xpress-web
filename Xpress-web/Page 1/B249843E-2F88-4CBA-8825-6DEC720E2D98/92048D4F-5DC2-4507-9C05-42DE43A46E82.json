@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92048D4F-5DC2-4507-9C05-42DE43A46E82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF8D197F-E0F7-44B2-A185-E71B38444C61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8339CD16-A7B0-4BA2-97F0-90F68BD96C7E",
+    "height": 65,
+    "width": 440,
+    "x": 208,
+    "y": 903
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B35EF7D-CB58-4E33-92F8-D6ACCD9EF3D6",
+      "overrideName": "19FF8FDF-0DDE-4C1A-85F7-76D86ACCC9C1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF85ED32-C52F-4FA1-BCAE-1039D2B9108B",
+      "overrideName": "B82CEF42-0685-4903-9A60-CB7E52078F03_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3FF9497C-563A-4208-8EF9-7C7852EFAA20",
+      "overrideName": "B82CEF42-0685-4903-9A60-CB7E52078F03_stringValue",
+      "value": "Valor referencial del paquete"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2603C1A-4297-4402-A86C-D3763204CAD9",
+      "overrideName": "AFF28AC8-8CF8-4B35-9A8A-B019D5415A85_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E490428F-7AB1-4683-AB4D-C7BBA0C7C93F",
+      "overrideName": "5DC8144D-51DC-45BF-B4D9-8B310A360376_stringValue",
+      "value": "S/."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05AE207A-0422-4513-9A0C-ABA1CDDC3892",
+      "overrideName": "104DCE8D-F8C6-43BB-B979-B009EC80217D_stringValue",
+      "value": "Ingrese el monto a cobrar en Nuevos soles"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82851CC3-938F-4452-ABE7-81D946E45733",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "33D41EC7-C012-44D6-BA3A-4AEE30BECA70",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E55A17C-73D5-4334-A913-ACE7F2467085",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4F85694-7C38-4684-B632-9F896BB692A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC525585-B567-415F-A1F6-F1D4A5E724C9",
+    "height": 53,
+    "width": 380,
+    "x": 530,
+    "y": 773
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/ Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FF70C32-66AD-4B17-AC40-CCFACF974E89",
+      "overrideName": "9B0954D6-5BA7-4D76-A5C8-1D1F0FB8BFFC_stringValue",
+      "value": "Quiero unirme al equipo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "32C28D40-50E3-4251-B3A0-95464762EC1E",
+      "overrideName": "B3814624-6416-4E0D-8198-D21061ED1D40_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2A4458C-FA46-4138-964A-948B6E248061",
+      "overrideName": "E26D8ADF-9590-4E04-A649-4AC8DF6CBB7C_stringValue",
+      "value": "Quiero unirme al equipo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE45FB93-03BA-4964-9CD9-1FA3AB07E9B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE655775-6318-4745-8037-514411A27186",
+  "verticalSpacing": 0
+}

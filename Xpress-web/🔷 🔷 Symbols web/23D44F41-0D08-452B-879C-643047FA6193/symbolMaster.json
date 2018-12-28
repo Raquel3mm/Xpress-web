@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "10E80276-CB2C-4E80-9661-C7B277E0BF04",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 806,
+  "clippingMaskMode": 0,
+  "do_objectID": "23D44F41-0D08-452B-879C-643047FA6193",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B4425D0-E5BA-46CA-AAC9-5279D7EBCAB4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B741872-4070-4A48-9DA5-81E31C48C6A8",
+    "height": 48,
+    "width": 240,
+    "x": 1128,
+    "y": 1996
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AA3A8F5A-A513-48E8-B1F8-FC3EB5A69DD8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D2FDE935-0E48-414A-B1F4-2724D97D6E29"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25C28EDC-30EE-43C9-90D5-44DF89E1292D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A50EDC9-7A04-4EAD-9B27-1D4E55EDDA2F"
+    },
+    {
+      "class": "text",
+      "id": "BCEE9F7E-1DAC-4A75-9396-D919C2B9B557"
+    }
+  ],
+  "name": "Form/Black/Textbox Icons both sides",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D6BCA40-B503-4582-8F7D-CCA539DC626A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1DCAC310-E88B-4449-8964-1FE52C14A093",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "887ADA6A-129E-4871-9934-91B169076DD7",
+    "guides": [
+    ]
+  }
+}

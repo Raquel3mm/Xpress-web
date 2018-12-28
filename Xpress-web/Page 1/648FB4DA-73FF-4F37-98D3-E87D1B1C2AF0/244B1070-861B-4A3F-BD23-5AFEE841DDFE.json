@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "244B1070-861B-4A3F-BD23-5AFEE841DDFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8CB286F4-28FF-4782-BEA5-ABD1C6DF1D95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "46B49F0A-85E3-4CFF-9B44-9B5A77D8C8B8",
+    "height": 65,
+    "width": 379,
+    "x": 891,
+    "y": 1087
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F9DF21-19E8-4C50-A749-AD63F7820629",
+      "overrideName": "9CB8526A-8D1A-4A1A-9F4C-30A26EDFA380_stringValue",
+      "value": "Correo eletrónico"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "809C85FD-3B6B-4A8E-A906-165AAB048565",
+      "overrideName": "0A9CE201-C97E-4A24-85C0-6A6222747EFE_symbolID",
+      "value": "1532237E-6B8F-43C5-A3F3-7AAA178A2650"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5524313C-56A0-4AFE-B6D2-3DDCC567A705",
+      "overrideName": "9CB8526A-8D1A-4A1A-9F4C-30A26EDFA380_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE0E4A87-3089-4CD0-BC66-516AD5216826",
+      "overrideName": "8F53DFEB-52B3-495C-B293-DBBF64096018_stringValue",
+      "value": "Número de celular"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "817D8652-9DEB-45E4-BCBE-D0D926FDD04E",
+      "overrideName": "B9CB8C50-6618-4496-99B9-721B1CC22FE2_symbolID",
+      "value": "51BB21F5-9967-4AA6-93CD-3FBAC31B7670"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36E3E37C-38EF-43FB-84E8-E91785A5B8AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5999C39C-8E03-4315-8246-F11C323B32DE",
+  "verticalSpacing": 0
+}

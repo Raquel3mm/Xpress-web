@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "95ED1FB6-6318-4BB2-8497-CA20440D503B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1997,
+  "clippingMaskMode": 0,
+  "do_objectID": "563DCE28-AD8F-4C6B-85E9-FA6FFE0E5066",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCB2CF23-CE39-495D-A478-23EC769F74B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2AE83C5-0459-4B9E-9959-285125E66FE5",
+    "height": 144,
+    "width": 144,
+    "x": 100,
+    "y": 10980
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7FF403D4-93A9-4B92-817D-5D0A3A4FB9C4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7FF103B2-B3C7-45F2-9400-C3EBE5920028"
+    }
+  ],
+  "name": "Logo/Peru",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "331E35E3-32A3-486C-8FE4-B0B79A5A737C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BE6066F9-08D9-4E45-9DC1-D99F1F6E1C36",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0DD6465C-1231-4C32-B2E8-5DA9FB88C7BC",
+    "guides": [
+    ]
+  }
+}

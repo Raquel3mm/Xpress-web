@@ -1,0 +1,263 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E004A960-8B6D-4E8E-AA3A-E9336C2F6F3F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2486A08D-2712-4F5C-9B64-234C50D8C1A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B992B219-9912-4E95-B8A5-EA48C80B02AB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6405A692-3B2E-4469-8FC8-FEE9B8A5D084",
+    "height": 1273,
+    "width": 1440,
+    "x": 34319,
+    "y": -658
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "24F50C58-C12F-42CA-A212-89AF41C69262",
+    "guides": [
+      208,
+      1232
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AE4A8A25-6890-4F8F-B99B-DD178A7F328B"
+    },
+    {
+      "class": "group",
+      "id": "D810C77C-45D6-4ED4-9B78-AD25F1351CF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34D737EB-4AB2-45F8-9C7F-7FC08A68E8EC"
+    },
+    {
+      "class": "group",
+      "id": "9DD7E191-7EC7-4D06-B1CA-C036FF9A66DD"
+    },
+    {
+      "class": "group",
+      "id": "5CD0B78C-7EDA-401E-B0BB-3F5A09F5D066"
+    },
+    {
+      "class": "text",
+      "id": "11703438-F37B-489A-9F33-5097646A4267"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FB071EE-EB5C-42BD-B434-C5712D049911"
+    },
+    {
+      "class": "group",
+      "id": "CF35F2D8-ADFA-44E4-95E1-FF4A16077375"
+    },
+    {
+      "class": "text",
+      "id": "B70806D3-5F15-452B-85FB-D2E4AB88BF0D"
+    },
+    {
+      "class": "text",
+      "id": "97A69993-2A9D-4E45-919F-6D4F905CD9C2"
+    },
+    {
+      "class": "text",
+      "id": "A05A552D-1E44-4763-8A26-B70652CC3B76"
+    },
+    {
+      "class": "text",
+      "id": "516F6779-48D5-44AD-BD2A-ED419C47470F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D46E2B5F-9B45-48C8-8348-A6674AAA064F"
+    },
+    {
+      "class": "rectangle",
+      "id": "472EB21B-B211-4DE6-B702-D83BB00646E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "9939AA12-1982-4BCB-8464-0C3C816B5AFF"
+    },
+    {
+      "class": "text",
+      "id": "0F0EDF9B-4923-4E64-BA72-292B360DDF2B"
+    },
+    {
+      "class": "text",
+      "id": "306596AE-5E2F-4C17-A354-C0C5CB4F219F"
+    },
+    {
+      "class": "shapePath",
+      "id": "C979C414-BBA5-4AD8-89A1-E4D85A0C13CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED40B3A7-1A77-4099-B791-DDDA85A51A26"
+    },
+    {
+      "class": "oval",
+      "id": "7D54C9F9-BC99-4288-A104-442929A3D5F7"
+    },
+    {
+      "class": "oval",
+      "id": "DF19E541-EFA5-4D1E-BD8A-0C3B938CDB52"
+    },
+    {
+      "class": "oval",
+      "id": "95EDFDBD-E320-446D-885C-8C7CF152753D"
+    },
+    {
+      "class": "text",
+      "id": "E895F092-A1AB-4ACC-BE50-B46A790C66F1"
+    },
+    {
+      "class": "text",
+      "id": "3CFB022F-C5D8-4C96-A504-82E530CA96E6"
+    },
+    {
+      "class": "oval",
+      "id": "24C60D1A-15B1-4583-ADCB-DEE1825D310F"
+    },
+    {
+      "class": "text",
+      "id": "F2C7277A-9594-4041-954A-0616A3FE8698"
+    },
+    {
+      "class": "text",
+      "id": "B1F683A5-99BA-4E07-BA36-52B357419C80"
+    },
+    {
+      "class": "text",
+      "id": "1C5642F0-15FF-415D-BB90-F499A8C3B8BB"
+    },
+    {
+      "class": "text",
+      "id": "6973DC75-3D53-41BA-A7FE-2C741E687D75"
+    },
+    {
+      "class": "text",
+      "id": "A5D18772-EF3E-4FB5-91A5-5F263ACE8FE2"
+    },
+    {
+      "class": "text",
+      "id": "DBB2E585-18F8-4D11-B30E-F83C1A4309DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A77A027-A662-4B12-8E59-529C15661355"
+    },
+    {
+      "class": "text",
+      "id": "F4C20BE7-0DD3-4C2E-98E7-58E89B0EBC51"
+    },
+    {
+      "class": "text",
+      "id": "57A03BC9-EB20-467E-B4B1-7428DEE524A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FAF5CAE-3238-4992-9DC3-D9A7F37EF799"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C274E90A-BD49-4189-9ED5-0C3403505A14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25057660-D148-44D2-8808-30DCE0CCA834"
+    },
+    {
+      "class": "group",
+      "id": "46134E90-3285-4549-8DAB-869E68F47B4D"
+    },
+    {
+      "class": "group",
+      "id": "1F21E4E7-4D64-4DF5-9A16-92A12CE17A39"
+    },
+    {
+      "class": "group",
+      "id": "EF8F2167-1107-4441-BC56-237132E678B0"
+    },
+    {
+      "class": "group",
+      "id": "96BD1F66-EA51-416F-995D-877FB128EDF0"
+    }
+  ],
+  "name": "1.12 Nuevo pedido_ Dato Favorito",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0739E62B-23A8-4B18-8A31-84E11C4B9C21",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E0BF284B-6837-4DD3-AAE7-2A9B3C9CB779",
+    "guides": [
+      272,
+      321,
+      882,
+      835,
+      815
+    ]
+  }
+}

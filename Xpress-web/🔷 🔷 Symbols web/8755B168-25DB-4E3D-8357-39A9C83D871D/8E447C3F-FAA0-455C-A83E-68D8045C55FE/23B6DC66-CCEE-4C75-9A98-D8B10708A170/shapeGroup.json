@@ -1,0 +1,114 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "23B6DC66-CCEE-4C75-9A98-D8B10708A170",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A274431E-69B6-4E07-B234-45C9B3466F47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8C5F9C49-0804-45D2-9AB8-3CEF1152D3C9",
+    "height": 95.08084428514537,
+    "width": 136,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9C7A4474-2D14-4196-A6B8-54649FCD4E29"
+    },
+    {
+      "class": "shapePath",
+      "id": "785D564C-B11C-412E-B391-7CDFD6A94A51"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B637D23-ADE6-49B4-99D0-C3E08F53A239"
+    },
+    {
+      "class": "shapePath",
+      "id": "7E9127DE-7113-41F8-BA14-08D0184EDCFB"
+    },
+    {
+      "class": "shapePath",
+      "id": "D09200D6-7C01-4298-A082-A61A409169FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "6252A6C7-60E5-4363-91D9-77FF31BBA5C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "8194AF2C-8712-4ADB-AE84-0FF435FE7040"
+    },
+    {
+      "class": "shapePath",
+      "id": "9AB35292-2C68-4D94-B9F2-14B49615CAA3"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A58BA23-3C74-415E-A6B9-74323597F043"
+    },
+    {
+      "class": "shapePath",
+      "id": "5FFB6051-2775-4330-AE98-9C798B357D81"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C1574464-A815-4A3F-9CC1-1A5AAE1465F0",
+      "opacity": 0
+    },
+    "do_objectID": "899D47AE-0948-4462-BB01-7906957E3ED5",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0B2A3FBD-CFBC-45F9-9B5A-9118D56214E2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77C95E5F-C7BB-44A0-9EDB-399960BE02B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24805DD8-FECF-4795-989E-C6ABCA291A38",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1353A6B9-89CB-4C08-B784-B48C5A75F1BD",
+    "height": 1076,
+    "width": 1440,
+    "x": 26620,
+    "y": -10140
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EA12BBF9-9D8E-400A-9884-CA2EABFE6CE3",
+    "guides": [
+      890,
+      1270
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "24E10734-1D01-4A4F-8688-8AB5CFFAD9C7"
+    },
+    {
+      "class": "text",
+      "id": "82254051-7BD6-46ED-804A-B08F9E646330"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E884A77-BFB8-470C-9482-D64B0B735DDB"
+    },
+    {
+      "class": "group",
+      "id": "FA953A38-B8A5-45EB-9321-78B54A905A0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAD40CD7-EC2C-4BA0-B07C-C18D2440EC52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AEC8043-7DB4-4778-AD75-7A7F4DAAE00B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F362A3C4-4DC0-4BB0-AEAA-51B960F087F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54C5077C-502F-4D12-A0E3-3AA4E4E84E03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2EA6D4C-7C3A-4E41-A4D7-535DFCAE4627"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A017CE6-C8D0-47EE-B9BC-CBB8EC529C7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0E3A3D8-4FF1-49B6-8514-0F487ABEA420"
+    },
+    {
+      "class": "group",
+      "id": "17D41C5A-C732-418E-868F-5C41ECC2A4A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "9F8FADEC-E14C-46B7-B152-F8C73B24B759"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D32C5557-A0B5-4433-A2DE-9CEDEC0094E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA185E8B-4322-43CF-9DCE-01F591A35649"
+    },
+    {
+      "class": "text",
+      "id": "22B65CC2-CBA3-4E08-80DD-8E84751C8DFE"
+    },
+    {
+      "class": "rectangle",
+      "id": "43190EEE-422F-490B-B485-DC13E9A9DD0D"
+    },
+    {
+      "class": "rectangle",
+      "id": "9E89DBC3-77CD-4ABD-BA30-60BF0950AB7A"
+    },
+    {
+      "class": "text",
+      "id": "7DF73F30-B817-4453-B48D-C559CA3D093F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "950A34DD-C159-4F46-8553-BD5A26CDD54F"
+    },
+    {
+      "class": "text",
+      "id": "E364E96A-5B4C-4CF9-A1AC-62C48524DFD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0ADB040-9EB6-4C07-9330-9B3C7CD9DC04"
+    }
+  ],
+  "name": "5.5 Registro de Afiliado - Datos de vehiculo - modal error",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EE3B9BE-4F5C-40C8-AE23-F9E881242422",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "258B742A-0F22-45CC-8512-25582A21CB5C",
+    "guides": [
+    ]
+  }
+}

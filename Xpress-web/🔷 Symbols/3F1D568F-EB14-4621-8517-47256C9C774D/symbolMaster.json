@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D3F22C2F-CAD8-4CB4-B55E-134B7A0D1F73",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2738,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F1D568F-EB14-4621-8517-47256C9C774D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46B6985D-085E-443A-BDB2-15E23C035CE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FDDD601-117A-408F-AF80-85AF53F8D203",
+    "height": 54,
+    "width": 70,
+    "x": 1159,
+    "y": -255
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EBDA4AC1-29E8-44F8-AF73-00142DAD721C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "49C542C0-F736-4628-9971-B9E90D9EA1FD"
+    }
+  ],
+  "name": "img_carro 3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90E5C0DF-12AC-4400-8AF2-A56EEDBA5EA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A324C7C-1926-48EB-B9CF-8FA661BDE858",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2D606CF3-7599-43CC-9656-0CE9F0BC8443",
+    "guides": [
+    ]
+  }
+}

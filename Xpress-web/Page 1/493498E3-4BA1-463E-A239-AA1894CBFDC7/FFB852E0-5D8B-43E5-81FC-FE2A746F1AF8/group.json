@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFB852E0-5D8B-43E5-81FC-FE2A746F1AF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D890DB90-F6A2-419B-9773-271647A03F60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77089988-7332-469F-BDB8-29DA9FF8EBE3",
+    "height": 40,
+    "width": 164,
+    "x": 921,
+    "y": 34
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B6834D96-2194-49A3-B7EE-7B5FFDEB31EB"
+    },
+    {
+      "class": "text",
+      "id": "BCE1B060-3872-4BCC-96EE-853A1F8B7DC2"
+    }
+  ],
+  "name": "Login/Textbox Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9ED90E3D-1A05-4102-B89B-3859BE3297AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5CC7887-3C6E-4C95-BA6E-FADC87F01CDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EAC01699-3FE8-44EE-9A04-579928AFCA09",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D48EE8B-1FF0-40AE-B5DD-969E5D70847D",
+    "height": 48,
+    "width": 240,
+    "x": 208,
+    "y": 347
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Black/Calendar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DFCC035-7136-4AE1-9AE2-CA33DF42A4B9",
+      "overrideName": "430865BB-427E-471B-BB6D-C2D5CE1F670A_stringValue",
+      "value": "Desde"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F05D5D9-514E-4DEC-B879-A523DBF47FFD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DB21BCE-68F0-424C-B90E-3B9F673BC17D",
+  "verticalSpacing": 0
+}

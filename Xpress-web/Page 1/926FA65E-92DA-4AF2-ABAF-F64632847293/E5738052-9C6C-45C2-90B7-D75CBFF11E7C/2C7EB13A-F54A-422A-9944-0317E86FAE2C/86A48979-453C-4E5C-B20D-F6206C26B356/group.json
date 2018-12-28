@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "86A48979-453C-4E5C-B20D-F6206C26B356",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B00A5CDD-53F2-4A4C-947C-50FE2CE1907D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3DAD5ED-023E-414E-8F11-061446CC903B",
+    "height": 19,
+    "width": 57,
+    "x": 69,
+    "y": 19
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "960161FB-B925-4C4B-8D22-6F149223B250"
+    },
+    {
+      "class": "text",
+      "id": "7A2D68A3-816F-4543-9BF1-8BBC126870B9"
+    }
+  ],
+  "name": "Desde",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "230F532A-999C-461B-827F-596D3F9578CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

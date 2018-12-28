@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "812CDA28-FD2C-4EB0-969F-E7F48A81BDB2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2740,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C0CA5B2-F054-4528-AD73-0C5CF6A23A95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "196D17A2-A34C-489D-AF93-223E3FD62823",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61669D91-F8C0-444F-9DE8-8D387EFF0FDC",
+    "height": 54,
+    "width": 70,
+    "x": 1468,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D19D25D1-5373-4199-892E-4A810E20091D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "D2D1D136-0E84-4B6D-9F67-A0158C7F3A7D"
+    }
+  ],
+  "name": "img_carro 3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5596C1A4-554B-4C8E-AB8B-3E00D6DE0C8C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "16424E2D-8299-4C37-9DB3-9A8DB2EDC951",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E5AF475-AF5E-412B-B10D-49C9CE0D056B",
+    "guides": [
+    ]
+  }
+}

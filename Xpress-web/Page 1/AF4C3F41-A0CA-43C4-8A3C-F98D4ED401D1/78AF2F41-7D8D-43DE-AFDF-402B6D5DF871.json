@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78AF2F41-7D8D-43DE-AFDF-402B6D5DF871",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5B287B6-1932-4012-A2BA-D1FEC7AB6852",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A61CFEC3-BCD4-4D39-8A20-B2AEB236BE33",
+    "height": 53,
+    "width": 380,
+    "x": 530,
+    "y": 704
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/ Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "69922BDE-660D-4914-8A01-D842C2C1319F",
+      "overrideName": "C74E51BE-5452-4D42-8891-5C1429B0F9EF_stringValue",
+      "value": "Quiero realizar pedidos"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3ECC756-AA68-40D2-8DDD-A56C40C825E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "04042DA3-5647-4921-ACB7-D10C367B0041",
+  "verticalSpacing": 0
+}

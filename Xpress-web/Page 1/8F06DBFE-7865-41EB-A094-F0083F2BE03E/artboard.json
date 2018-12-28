@@ -1,0 +1,201 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D36DAFE8-70D1-4D83-9119-A9C03892A43B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F06DBFE-7865-41EB-A094-F0083F2BE03E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67434966-3386-44B8-BC28-BDFFD80ABAB9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E600EBB6-C5FC-42AC-A3B3-52F2778BCFA9",
+    "height": 1025,
+    "width": 1440,
+    "x": 32779,
+    "y": -16359
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FFBF4164-A01A-4D7E-A469-5AFC7068D6DE",
+    "guides": [
+      890,
+      1269,
+      560,
+      881,
+      682,
+      758
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ACE250B9-3C20-4327-9E48-27410336F1F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "065AF739-B2B4-47E2-A4C5-E24B57BA0306"
+    },
+    {
+      "class": "text",
+      "id": "1AEB1120-3C71-4A81-98F7-77EB6D88935B"
+    },
+    {
+      "class": "text",
+      "id": "0CAA526E-E10C-4DB9-8BD5-EDD5A619228E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7903DFD-7A51-4801-80C6-46A0E0DA9707"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C46F1CB-9205-4F86-AB19-35D54506334A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93847A28-71CA-4BF6-8D09-BB614876EB5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A63AB4A-06F9-45EE-AEB3-AA6137AB60BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1117283-3651-4B78-97A8-43A575EF0018"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6D1D7C1-D036-4312-88FC-51864AF82DD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A1A6C23-6DF0-4A13-8A70-B480B3F211EA"
+    },
+    {
+      "class": "rectangle",
+      "id": "839AB6B0-E60C-4D83-85F0-943368DAB297"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11EAAD01-5178-4242-B2C8-61A0A44FFD80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F96ACDF2-CC01-4F7A-BDD8-710B4663B6BB"
+    },
+    {
+      "class": "text",
+      "id": "C566D9FD-2BE1-419B-993B-9E4A19B25E68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "947F0934-D27B-4926-90A0-93DC62DF34DD"
+    },
+    {
+      "class": "rectangle",
+      "id": "00307FF6-246D-464C-9345-D2A4FAC90592"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4ABEA1F-BAE9-4DB9-A610-6E4AFB5385EE"
+    },
+    {
+      "class": "text",
+      "id": "45933297-7965-4268-8DC1-3B3F3F61E42E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "489D4B5B-D990-4791-8802-B30CFDEDB917"
+    },
+    {
+      "class": "text",
+      "id": "E3D2FC97-C1DE-46F3-BE49-834ADB3F64CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E139057-303D-4BDF-99AB-838074D0102D"
+    },
+    {
+      "class": "text",
+      "id": "6511B113-A7DB-47FA-8362-7A474F575317"
+    },
+    {
+      "class": "text",
+      "id": "E2A5C940-59B8-48BA-888A-1476F148345F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D419867-936D-4AB9-8417-089BDAF55A92"
+    }
+  ],
+  "name": "4.10 Registro de Usuario - Registro con Correo - Codigo Incorrecto",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8F1A0AA-A573-46C6-A924-E160E0D1ADE4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "39214DAE-A65A-4A7A-AC5B-CAEE57ADC409",
+    "guides": [
+      171,
+      548,
+      243
+    ]
+  }
+}

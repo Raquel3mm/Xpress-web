@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA9231C1-77D6-419A-BCFF-5EF75035ECC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AE51FAF-AE84-484E-A0B8-0DB61ADB94D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C8A5161-3E15-45F1-A25F-692F8DCD40D9",
+    "height": 72.44499381953031,
+    "width": 72,
+    "x": 682,
+    "y": 174.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Oval-modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F097CB1-84BB-4F45-9F8C-85AB1F414470",
+      "overrideName": "4291A3D3-07AF-4AE9-99EF-6236B37B4B81_symbolID",
+      "value": "EA7E22A3-7DF2-4313-8193-3A72DED2A709"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC44E6B9-2289-410B-B63F-32A0C31478C2",
+      "overrideName": "4291A3D3-07AF-4AE9-99EF-6236B37B4B81/99330890-607D-4733-A9C8-5244257BA542_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB57D5C4-5086-4A9F-BC9E-93EDBEC0A843",
+      "overrideName": "7EDE0737-D6D4-4BF0-8673-6998C3C7CCCB_layerStyle",
+      "value": "8DAD9FAB-6A56-4E15-B003-193334D6E914"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA1F4455-CB97-440F-874E-E021F4CAEB01",
+      "overrideName": "4291A3D3-07AF-4AE9-99EF-6236B37B4B81/54A6793E-D08E-479D-B3B6-68E75E912391_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1BBAC8F-D8E2-4D1C-9347-ADFB0722CB62",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B35AF4F5-809F-47FC-9C5A-D57DB9342968",
+  "verticalSpacing": 0
+}

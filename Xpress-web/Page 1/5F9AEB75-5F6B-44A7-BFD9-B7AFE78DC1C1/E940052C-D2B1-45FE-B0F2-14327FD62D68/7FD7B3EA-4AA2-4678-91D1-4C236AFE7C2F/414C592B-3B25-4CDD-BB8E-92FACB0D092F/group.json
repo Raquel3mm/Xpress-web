@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "414C592B-3B25-4CDD-BB8E-92FACB0D092F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A0A9C85-C571-4F69-978F-F6BBACDA423E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "170EC25A-726B-4616-BF22-48DBD685E84F",
+    "height": 141,
+    "width": 244,
+    "x": 38,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "15A85E6C-8DA8-4A87-AE6C-36832922A726"
+    },
+    {
+      "class": "text",
+      "id": "724784EF-5B1C-4AB2-8D9D-953A9ACF0B57"
+    },
+    {
+      "class": "text",
+      "id": "2F24CE57-AD72-4916-95A2-435A95AD9B01"
+    },
+    {
+      "class": "text",
+      "id": "56681FC7-DC23-4980-85F1-8159965E26F7"
+    },
+    {
+      "class": "text",
+      "id": "E102A3A9-5549-4E6D-8471-93B2B6B5C1AB"
+    },
+    {
+      "class": "text",
+      "id": "64CEB0F4-992B-4D18-A484-301EB4753C99"
+    },
+    {
+      "class": "text",
+      "id": "9E0AE76C-9019-4956-BE77-C1B49E53EAB4"
+    },
+    {
+      "class": "text",
+      "id": "C80C0E5A-D76D-49EC-A984-F36D5C649FEF"
+    },
+    {
+      "class": "text",
+      "id": "9BCF2E24-9A13-4801-B0DD-466D1D5BE727"
+    },
+    {
+      "class": "text",
+      "id": "887BEFEF-7F5A-49B4-9FC6-F3F59E9F32A8"
+    },
+    {
+      "class": "text",
+      "id": "62382EA7-1A0C-4110-A4C0-87F5EAE6B506"
+    },
+    {
+      "class": "text",
+      "id": "AEACBA71-0903-4976-A2C2-8A088402F6A4"
+    },
+    {
+      "class": "text",
+      "id": "0A1B6CEB-DB0C-4E3A-BD75-88505C5A756B"
+    },
+    {
+      "class": "text",
+      "id": "35CB2545-0EDA-41DE-A227-3FC61FC8D2E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C1090F9-238C-46F1-8CBD-DF33AF3202DC"
+    }
+  ],
+  "name": "calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E89063C-76AF-4731-8162-7B95647D3D6C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

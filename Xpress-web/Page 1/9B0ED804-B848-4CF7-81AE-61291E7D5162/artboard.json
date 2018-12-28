@@ -1,0 +1,177 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A27C150A-E8F9-401E-9E51-F93CAE4C711B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B0ED804-B848-4CF7-81AE-61291E7D5162",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E354F7E-7F43-4A2F-A341-C9BA7395A02D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "978529D6-E1E8-4E3F-893A-BD89F3E9ED69",
+    "height": 1024,
+    "width": 1440,
+    "x": 18872,
+    "y": 500
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9B4BBA5F-507D-42EA-9235-B7396C52B03C",
+    "guides": [
+      208,
+      1232,
+      1397
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F8233C92-8565-4FDF-9B99-68EBE02DE787"
+    },
+    {
+      "class": "group",
+      "id": "A533E3D3-4725-4D25-953B-3C077A8850EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3602740E-0286-4A8B-BCC5-75021D483A1D"
+    },
+    {
+      "class": "group",
+      "id": "5DAFEF60-F80C-4AC4-A447-955FE353CA4A"
+    },
+    {
+      "class": "rectangle",
+      "id": "8F17235A-E44D-451A-9B67-438EF011CA7B"
+    },
+    {
+      "class": "text",
+      "id": "2A0AB231-EF42-4AB7-B5D9-5E6FAE40CD53"
+    },
+    {
+      "class": "group",
+      "id": "E668E8DD-D92E-4815-A80C-D8E7EC79BB6E"
+    },
+    {
+      "class": "group",
+      "id": "D8443E17-EDD9-491A-8231-D42BAD052929"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F310966A-F1BF-439E-84B2-AD8EBC114BDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63436E5B-893B-497D-B8D3-439B809B89D4"
+    },
+    {
+      "class": "text",
+      "id": "C41CCFF6-211F-425B-AF24-9CFC9686CE77"
+    },
+    {
+      "class": "text",
+      "id": "5C9CCA63-2656-47C6-82B1-58B021B56832"
+    },
+    {
+      "class": "text",
+      "id": "B6D8D63F-E917-45E9-A46A-9D6E4DF7F5B5"
+    },
+    {
+      "class": "text",
+      "id": "4CEE956C-8071-4B75-9541-EE24F7F81909"
+    },
+    {
+      "class": "text",
+      "id": "D70B264B-7BE0-41A9-A237-DA592F948BFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6ADF1F71-887B-4C4F-BD02-E96F2171E860"
+    },
+    {
+      "class": "group",
+      "id": "85B14A7E-4C3D-49BF-BAB1-A9A746E87D73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E55A17C-73D5-4334-A913-ACE7F2467085"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91308209-EB82-427F-8CCF-C98C040972FB"
+    }
+  ],
+  "name": "1.0.1 Nuevo pedido_acceder",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACFF12F2-6A27-45A6-B13E-DBF0A5BE34A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8106CDDC-19FC-4721-8315-85160030F629",
+    "guides": [
+      272,
+      321,
+      882,
+      835,
+      815,
+      63
+    ]
+  }
+}

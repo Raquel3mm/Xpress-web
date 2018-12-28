@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "142B6FB1-BB6D-4C39-AD07-D1A04953FA8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4629623-97DF-4A0B-B36D-195E803BD4F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2975417-1717-45F3-8FAD-5998666816A1",
+    "height": 43,
+    "width": 89,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E58A16E2-D251-4BFF-BA2A-CC14CEDE5458"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06818BD1-A974-429F-951B-43C47412200A"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8AC1E93-0CE2-47DB-951F-EA106A1B6EBF"
+    },
+    {
+      "class": "shapePath",
+      "id": "E5396ACB-9F7B-4783-B2E1-94B975EE3A03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A13F8173-06CA-47CE-ADA2-9B15B975782F"
+    },
+    {
+      "class": "shapePath",
+      "id": "6CC1895A-CACE-4486-AC73-31BDFFF20072"
+    },
+    {
+      "class": "shapePath",
+      "id": "FF80EEB1-AAFF-4B37-B1F1-ED7B12B301DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "4AA1E52C-D61D-49DE-99D4-97513F1B120E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D66C2C8F-CDF2-4F6D-9180-D706862CFCE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E79FAE6-4550-4288-94DC-44C2CD2C2793"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4DF951B8-9354-4BEA-B54C-60BD7D460F39"
+    },
+    {
+      "class": "shapePath",
+      "id": "F2514A5A-78BA-4A44-ADA7-956934540810"
+    },
+    {
+      "class": "shapePath",
+      "id": "23E0E434-C696-4143-91F6-D70A5CC28666"
+    },
+    {
+      "class": "shapePath",
+      "id": "4FDE40DF-D8A5-46C4-B5A2-0DB1352FE5BE"
+    },
+    {
+      "class": "shapePath",
+      "id": "2FDA8F61-B659-4BED-B6AC-6905BC88A151"
+    },
+    {
+      "class": "shapePath",
+      "id": "35F2B3DD-5ADC-4189-BBEC-7FEAD6DCB691"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F692EFC-FA07-4B1B-A9FE-3D27CF96CD23"
+    }
+  ],
+  "name": "ico_logo_small",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC1C15E0-B8B8-40FB-88E4-48DBF50B36F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

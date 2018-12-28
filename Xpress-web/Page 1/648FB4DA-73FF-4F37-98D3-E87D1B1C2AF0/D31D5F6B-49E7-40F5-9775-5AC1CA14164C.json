@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D31D5F6B-49E7-40F5-9775-5AC1CA14164C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4F2F0EC-3035-4387-8A6B-7388A0DD5270",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFAD538E-8413-40B3-870F-C1F29742A366",
+    "height": 65,
+    "width": 179,
+    "x": 891,
+    "y": 763
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF27F46E-BBFF-4C57-B728-96B0E6C8ADC1",
+      "overrideName": "60D2EF29-9136-49FA-A7AE-E74C33E9B3A3_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CA27F16-4806-4E46-8345-FACE54B1BE52",
+      "overrideName": "60D2EF29-9136-49FA-A7AE-E74C33E9B3A3_stringValue",
+      "value": "Apellido Paterno"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50E8629D-A2ED-4B5E-835C-3E5A253011A4",
+      "overrideName": "C6E2D7E3-0444-45E4-9E99-AE9DAF86F310_stringValue",
+      "value": "Departamento"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C29F6605-9692-4AE7-9CDD-B6A2CBBD638A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C4C9CF50-0F90-4855-ABFF-F64AD6133AC7",
+  "verticalSpacing": 0
+}

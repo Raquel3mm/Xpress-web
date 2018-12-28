@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C331C38D-8D5D-46F0-ACF3-948F9B83DDFD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2076,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4F5CDA0-9DE8-4A0D-98FC-49BD14E07233",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7493A966-0F04-4694-8C74-E7B2EDB86624",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "559A501D-2AC3-4CDA-9F96-E9599BFEFE3F",
+    "height": 40,
+    "width": 50,
+    "x": 2587,
+    "y": -255
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7518471A-53C3-4760-84C9-46A90114844D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EF5B57D3-40C0-43F3-95E5-CCEA6F461891"
+    }
+  ],
+  "name": "ico_route",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F58EA43-30D1-412D-89CA-7A0B220FBC75",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "44AA01A3-7961-43F6-ACA8-A9714148A97D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9B851DE9-3038-4B26-969B-1A68B7EBF8CE",
+    "guides": [
+    ]
+  }
+}

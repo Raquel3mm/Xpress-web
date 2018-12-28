@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E08E22EF-12EB-4A22-AC92-E1D2562B1685",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23D33AE7-F69F-4D32-B90D-A0D9C98B01BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54E82F56-C9B1-4CDD-8139-9F61F222C6BA",
+    "height": 72,
+    "width": 72,
+    "x": 684,
+    "y": 173
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Oval-modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "013E1E20-2482-41D5-8EA5-9987086B4A10",
+      "overrideName": "A8CE9820-6E4B-4E18-A60E-22E4DA5D6CF0/274C7026-BB7A-4419-9B86-BE98F2A3A2C6_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F088F25A-B610-4406-A3AA-2DB5243EC8CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3E44C69-3330-4E94-81E4-A9626A0EC0E2",
+  "verticalSpacing": 0
+}

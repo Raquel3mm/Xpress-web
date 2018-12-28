@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8E77AC7A-DF61-47F7-8146-7F9870E98A95",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6D2F50C-ACE3-4ADD-9A1B-809A44AB1681",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA8C5429-0687-427B-AEFE-8896C8B0BE07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D36F448-7C01-4C96-85D3-A45DE21976A1",
+    "height": 12,
+    "width": 14,
+    "x": 3141,
+    "y": -143
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CFC79E4E-DB75-4B5B-B110-55A1D766EFFC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A5CE5C2B-C964-4D1C-9FF9-0E067115F2CD"
+    }
+  ],
+  "name": "ico_stars2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16992A8B-D9DC-40AC-B0C0-B692B5430ADF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "329692FC-D6B5-4F6E-ACCD-A1F77FA77943",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D3F90689-F53F-4367-8E68-F3822C83E10C",
+    "guides": [
+    ]
+  }
+}

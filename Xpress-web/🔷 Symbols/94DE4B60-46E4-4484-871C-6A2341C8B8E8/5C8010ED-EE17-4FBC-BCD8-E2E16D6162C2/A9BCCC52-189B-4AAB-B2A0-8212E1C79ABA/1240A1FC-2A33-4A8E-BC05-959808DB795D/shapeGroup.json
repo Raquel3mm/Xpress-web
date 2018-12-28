@@ -1,0 +1,114 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1240A1FC-2A33-4A8E-BC05-959808DB795D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76E325EC-1712-4DC7-9AC0-10A0F061AAEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F8B1371F-72F5-4229-B0A7-6F754BF7394D",
+    "height": 11.88510553564317,
+    "width": 17,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B00FFB94-5FBA-4088-88A2-BBA1AF526CEA"
+    },
+    {
+      "class": "shapePath",
+      "id": "B6B3CA93-30F7-4AD8-B0F2-31665D4BCF26"
+    },
+    {
+      "class": "shapePath",
+      "id": "0EA1A425-EE5E-400B-9B3C-DE55F9A6D435"
+    },
+    {
+      "class": "shapePath",
+      "id": "8394010D-7886-4388-BF65-B8D0BC682D84"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4AD2BD7-747F-4629-901D-F8418510071B"
+    },
+    {
+      "class": "shapePath",
+      "id": "678CCE74-9CDA-4214-9133-FD3940E02227"
+    },
+    {
+      "class": "shapePath",
+      "id": "25F612A1-B42D-4A3E-B87C-B0BBBB1D2D08"
+    },
+    {
+      "class": "shapePath",
+      "id": "17CD00DB-D752-4EE7-AD5C-CE59712731C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "A14E2DEA-43B4-48AE-B3E5-DF07400CA8D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "09CBCD59-0E86-423F-B700-F42B3D138941"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "511C7DE6-1D4B-4E84-8597-1D321B434452",
+      "opacity": 0
+    },
+    "do_objectID": "ECC9E958-7CA4-4674-A0F9-EA2B6D4F10F4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

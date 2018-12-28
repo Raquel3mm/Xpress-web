@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "91D79606-DBC1-4DB7-8346-20BFBED737FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BEC8A62-9EB4-40B0-AC66-571BB1B9969F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61A0F03E-D683-4FC1-B701-B4466799368C",
+    "height": 68,
+    "width": 379,
+    "x": 891,
+    "y": 856
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Foto vehiculo Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02150AA4-266A-4DC4-8BDA-32BD6A600D46",
+      "overrideName": "1574C433-6CB4-4100-B7F6-86B838AA0E6A_stringValue",
+      "value": "Foto2.jpg"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72DC5A08-151C-4F62-B453-60A908FC9ED3",
+      "overrideName": "AFA48AF2-A51D-4739-BF71-FA4C9352F972_symbolID",
+      "value": "9A324C7C-1926-48EB-B9CF-8FA661BDE858"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2E53C56-883E-4ACC-8387-7BC632D8A28C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CCA864C1-F29A-49BB-BAE9-6D6830A58372",
+  "verticalSpacing": 0
+}

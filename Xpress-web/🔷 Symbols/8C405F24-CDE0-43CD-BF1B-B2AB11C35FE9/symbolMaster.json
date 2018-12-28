@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8C7CFD73-4395-47C5-81AC-2E6B13CA1DD9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 199,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C405F24-CDE0-43CD-BF1B-B2AB11C35FE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CED8492-07BD-40FD-A725-069073BB806B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCA940C5-25F0-4964-99F0-EEFF5680CE0C",
+    "height": 72,
+    "width": 72,
+    "x": 1982,
+    "y": -255
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A399FE21-EEA2-4613-9991-75AFAB101B31",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0AB7F082-E232-4D9E-AA2B-D38963D25CE8"
+    }
+  ],
+  "name": "Oval-modal-error amarillo",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7176DC58-9DF9-46C2-B7BF-1470387F1AAE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A63A36F5-FB3A-49DE-BBB6-E603FAAD73B9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AE7A610D-7D09-4B70-BFA3-E157E439A2E9",
+    "guides": [
+    ]
+  }
+}

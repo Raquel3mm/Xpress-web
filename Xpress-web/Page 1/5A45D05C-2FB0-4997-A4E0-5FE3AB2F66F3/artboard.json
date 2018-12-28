@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "000425EC-4BD4-4CB6-A190-654B6F465984",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A45D05C-2FB0-4997-A4E0-5FE3AB2F66F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C69C0C57-181F-4E12-BC3F-FFECA2113F7F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AD37030-5412-4DCC-A1BC-940B01ABC3A9",
+    "height": 1024,
+    "width": 1440,
+    "x": 24970,
+    "y": -20260
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F3E3AB45-A47E-4B0A-8A89-9539E26C76FA",
+    "guides": [
+      890,
+      1270
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "811BF93A-9D02-41A4-AD52-C170E8D71CAF"
+    },
+    {
+      "class": "text",
+      "id": "D30251B3-9C8E-41D1-B66A-F1F25765D2D9"
+    },
+    {
+      "class": "text",
+      "id": "D68FD983-18B8-4256-88AF-EC1A7138BEC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBD48A63-E4BD-4573-86D1-E3BEDB824E6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C096B794-3E58-460B-B74F-714CDAC2777B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0FE328B-526C-4E9C-A5F1-C2BC7419D5E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "52528AEE-50C0-4599-B7BB-3ECF0A21929E"
+    },
+    {
+      "class": "group",
+      "id": "5291DB41-02FA-428A-BB0C-C3EA011EB093"
+    }
+  ],
+  "name": "6.3 Olvide contrasenia - Confirmacion",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50466273-53D1-489C-9770-819FA9100F94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E3E6DCC-E16A-49BE-9004-21BD3A8F4F21",
+    "guides": [
+    ]
+  }
+}

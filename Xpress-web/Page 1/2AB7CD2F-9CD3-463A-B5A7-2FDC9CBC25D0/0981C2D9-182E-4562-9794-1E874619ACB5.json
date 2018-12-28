@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0981C2D9-182E-4562-9794-1E874619ACB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "380DA468-1278-436A-BDFE-098F40D860CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DAB2D07-E483-4E5B-97B4-F63CAEBE6590",
+    "height": 48,
+    "width": 240,
+    "x": 464,
+    "y": 347
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Black/Calendar Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DFCC035-7136-4AE1-9AE2-CA33DF42A4B9",
+      "overrideName": "430865BB-427E-471B-BB6D-C2D5CE1F670A_stringValue",
+      "value": "Hasta"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A5B0BF7-E051-41C7-A67B-DF2D7AED2ADC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DB21BCE-68F0-424C-B90E-3B9F673BC17D",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "74BF5556-4C39-4344-81D3-216FED138811",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1F51016-D951-4095-9C9C-172057B10B60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5F253377-9B80-42E9-B961-0B3366983CAF",
+    "height": 20,
+    "width": 20,
+    "x": 921,
+    "y": 534
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/Social/Google",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "585EDFCD-C4AB-420A-B1E1-F94AFE157316",
+      "overrideName": "8B3F0493-E3E2-4036-9984-3A2B868D9620_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99A35338-3AE7-4FB5-9D19-384163F1F521",
+      "overrideName": "70ABDA87-F2B7-4930-887F-5C705A2545A3_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C2364B1-EC65-4B87-A66F-E98F9DCBC7BB",
+      "overrideName": "99D8988B-B44F-4375-A327-F615271A3291_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6244EE78-72D2-4B24-B45D-F7451A421C54",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1532237E-6B8F-43C5-A3F3-7AAA178A2650",
+  "verticalSpacing": 0
+}

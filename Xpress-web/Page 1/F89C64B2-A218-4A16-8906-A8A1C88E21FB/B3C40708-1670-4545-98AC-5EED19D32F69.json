@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3C40708-1670-4545-98AC-5EED19D32F69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12AA30A5-C2D5-4153-A270-8A67C3C8C513",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE1805D1-1B8A-4808-A232-F685984B29C8",
+    "height": 65,
+    "width": 379,
+    "x": 890,
+    "y": 767
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DEBA433-E1C8-467E-96E6-BD9CA3CD09E8",
+      "overrideName": "7E74A13B-C581-4B60-97C2-6BFCB6DD7AAC_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "477CC2CA-F38D-47C8-A981-58C4F794E99F",
+      "overrideName": "7E74A13B-C581-4B60-97C2-6BFCB6DD7AAC_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98D7BCAB-D276-4DBE-A47F-CAEEF276B99A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F0FFC166-5842-468D-B4AC-E375294373DE",
+  "verticalSpacing": 0
+}

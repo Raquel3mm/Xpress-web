@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7A70C2C-5920-4ED1-9276-565574927791",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1483BE04-B4D8-4E48-99A5-9838440F5450",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D277147-FDFE-40FB-9B17-D97F733CE2BA",
+    "height": 72,
+    "width": 72,
+    "x": 124,
+    "y": 0.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Oval-modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CDB3456-2739-403A-88A2-277E5CD7EA24",
+      "overrideName": "A9FF21AD-76B0-4BFA-A9AD-8621DF0D7667_layerStyle",
+      "value": "8DAD9FAB-6A56-4E15-B003-193334D6E914"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5C77A87-B0E0-4ACC-BB81-D56323A59053",
+      "overrideName": "7141AAC1-D18F-4371-993D-CB005194E663_symbolID",
+      "value": "0982968B-EF37-4618-80E1-65BCC01CCEB5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "058D3D93-AD60-45F0-B0BE-6E6F35806C7D",
+      "overrideName": "7141AAC1-D18F-4371-993D-CB005194E663/2C1C88C3-3E5A-45EE-8E32-9000C48B97AE_layerStyle",
+      "value": "AC305577-4C69-4E22-BB66-9BDA86A1DBF3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7F6B7FA-656A-4938-A303-ED2A0611E66E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F23FFDDA-9191-471B-BCB2-40183A2A4188",
+  "verticalSpacing": 0
+}

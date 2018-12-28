@@ -1,0 +1,111 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BF8F7CB-8555-4783-94F1-7284F2A64CF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -519,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "E6927AF6-406D-49E3-9F3B-697ADCD7766A"
+    },
+    {
+      "class": "artboard",
+      "id": "1DE45E22-6A4B-4020-B706-C448BD0B72EF"
+    },
+    {
+      "class": "artboard",
+      "id": "1D9B3917-ACE9-49F3-B766-1D4517185560"
+    },
+    {
+      "class": "artboard",
+      "id": "F480D829-36F2-4EC9-97CA-61040099C2F7"
+    },
+    {
+      "class": "artboard",
+      "id": "5514ACCF-9405-4627-8386-90FFF5AD8905"
+    },
+    {
+      "class": "artboard",
+      "id": "C9CA0CEA-2135-4116-8ED5-43A40EEB6A4C"
+    },
+    {
+      "class": "artboard",
+      "id": "9FE97389-EF22-4455-9EA7-3366886607C8"
+    },
+    {
+      "class": "artboard",
+      "id": "B31954F7-44D2-473B-802B-E07016435E0A"
+    },
+    {
+      "class": "artboard",
+      "id": "0AD4C875-D5A9-4FFF-A24E-A02A53299600"
+    },
+    {
+      "class": "artboard",
+      "id": "C8601599-A4CF-4361-BE44-320C6D88BA5D"
+    },
+    {
+      "class": "artboard",
+      "id": "7901C050-7023-465A-B396-D966B76E5316"
+    },
+    {
+      "class": "artboard",
+      "id": "530FDFC3-5CFE-4A0D-8BA8-F872FE9AF4D3"
+    },
+    {
+      "class": "artboard",
+      "id": "CA160C5D-5AB3-479A-8688-0E02A3E96A20"
+    }
+  ],
+  "name": "🎨 COLORES",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -410,
+    "guides": [
+    ]
+  }
+}

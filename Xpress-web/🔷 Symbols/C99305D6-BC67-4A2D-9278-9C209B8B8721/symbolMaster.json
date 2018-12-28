@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E5301AE4-1F50-45DD-801E-F401708078AD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 564,
+  "clippingMaskMode": 0,
+  "do_objectID": "C99305D6-BC67-4A2D-9278-9C209B8B8721",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB0C32AA-0F08-4E4F-987F-3CC81ECED868",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8398E492-099A-439E-B6C6-74400054CF7A",
+    "height": 144,
+    "width": 144,
+    "x": 2363,
+    "y": 249
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9934C4CC-2505-4BCB-A263-A2A46D60B265",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A62A0073-9D50-45AA-AD4C-2BB3112166FA"
+    }
+  ],
+  "name": "Logo/Mastercard",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58D3EABE-66F7-48A5-83A8-73B927DA8DBF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F0E5501-5967-4B8F-B688-99258F7D332C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7458D656-4118-4F23-851B-2305EBCF70F9",
+    "guides": [
+    ]
+  }
+}

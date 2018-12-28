@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DA99A929-EA7A-4BE2-9F04-D132A2A3F193",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92EABD7C-3E56-4EEB-A0C4-3B631608FD15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EB804DF-14C7-476E-9F12-BB56DEB730B9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD56C8BC-F525-41E1-ADF7-5D07A8D532F3",
+    "height": 1024,
+    "width": 1440,
+    "x": 23430,
+    "y": -20260
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DCF520ED-671E-45CA-8DEB-B3250C5CE32F",
+    "guides": [
+      890,
+      1270
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6D41AE2F-5AD5-4A79-A150-4EB9FD92C0E7"
+    },
+    {
+      "class": "text",
+      "id": "4C5DB39E-35DF-42E3-A585-544C4F6B45FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1659D8FE-F5E0-4F82-A4A7-C0252052CE80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A72E1D87-125B-4510-8588-B3635AD367F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "253DBC2E-777C-42FC-A80A-A661E413FB7D"
+    },
+    {
+      "class": "group",
+      "id": "98C4324F-0A7B-4224-A57F-5ACB21AA8157"
+    }
+  ],
+  "name": "6.2 Login - Empresa",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5EC97BA-856E-4E4C-95E1-C2443FA79CF2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "20DC8E02-7D2D-4CDC-B56E-F2D84C22F7C4",
+    "guides": [
+    ]
+  }
+}

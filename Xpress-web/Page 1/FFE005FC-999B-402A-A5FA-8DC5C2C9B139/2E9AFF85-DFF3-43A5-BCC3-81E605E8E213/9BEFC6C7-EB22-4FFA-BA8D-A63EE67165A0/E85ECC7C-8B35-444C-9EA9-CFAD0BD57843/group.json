@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E85ECC7C-8B35-444C-9EA9-CFAD0BD57843",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB2F4A0A-73EE-4F51-B11B-119BAD7D169B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14830220-252B-49A9-ADFC-0B92724B8496",
+    "height": 141,
+    "width": 234,
+    "x": 38,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B1A59D1D-787A-480D-9E9E-DFF5E06FF2A1"
+    },
+    {
+      "class": "text",
+      "id": "1DA5AAF0-7892-47EA-A97E-A798398FC53C"
+    },
+    {
+      "class": "text",
+      "id": "A39E5268-E9D0-42B2-9CE2-5D96E9AF674D"
+    },
+    {
+      "class": "text",
+      "id": "9BAC545F-D98C-402A-9FCC-6108B15FFFAE"
+    },
+    {
+      "class": "text",
+      "id": "54E9DF2B-ECC4-4792-8E4E-61C8783567E0"
+    },
+    {
+      "class": "text",
+      "id": "C1E0809A-0723-4B24-AD6B-FB8B85FB58FF"
+    },
+    {
+      "class": "text",
+      "id": "1DED9A4D-ED6C-4729-90EB-239C0BDC1E2E"
+    },
+    {
+      "class": "text",
+      "id": "530B952B-E077-4132-9CFA-6DD4E0081ACA"
+    },
+    {
+      "class": "text",
+      "id": "94829D85-126A-4BFB-84F5-36695D9A4599"
+    },
+    {
+      "class": "text",
+      "id": "041E7B8E-2B4B-4D13-9A4C-098C11E598CF"
+    },
+    {
+      "class": "text",
+      "id": "E536EE59-6FB8-4651-A10C-1225ABBDD6B1"
+    },
+    {
+      "class": "text",
+      "id": "8CCF55C1-285D-42CE-8B3A-C31D0D822B02"
+    },
+    {
+      "class": "text",
+      "id": "E2DCB77E-1A6A-4BEE-AE80-5A3B2E68ADED"
+    },
+    {
+      "class": "shapePath",
+      "id": "36A5E6E9-D1DD-41A7-B05C-82B382DAE7F5"
+    }
+  ],
+  "name": "calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22CDEF31-CC4A-4042-ACFE-85E0494F34D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

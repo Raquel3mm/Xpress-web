@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A9E75C0A-9B4D-42C7-87ED-6C94A1799BE5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1549,
+  "clippingMaskMode": 0,
+  "do_objectID": "15429DDC-6681-4915-A3F2-8095F9F9C644",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D29CD663-3B64-4A77-9163-5B670FF9ECCA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0459FB8-5D9F-4B33-87AF-D6693FCF6D95",
+    "height": 40,
+    "width": 114,
+    "x": 9666,
+    "y": 140
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "27E57BC0-E28D-4492-ABA3-87C2C1446B7A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0175841C-C861-4DCC-B0E3-5E2B3815E7DA"
+    }
+  ],
+  "name": "Form/Textbox short v3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7907FD9-2744-4F86-9B7E-38B02CE8F41C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "51A382D0-45B2-4720-A375-68B52BDC5CCE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "82FCB82C-1DB9-47F1-8865-39FC3CDC6831",
+    "guides": [
+    ]
+  }
+}

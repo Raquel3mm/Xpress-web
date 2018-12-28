@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3C77D909-3785-4ABC-B8D1-A393F4DCDF67",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C55AD13-F383-4F3C-BD00-B83F3787B8CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E44F10EE-DFF3-42BE-9B39-29053B3108F9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53037C33-3F31-42CA-8D96-804FC2095136",
+    "height": 1076,
+    "width": 1440,
+    "x": 25080,
+    "y": -10140
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3ACE15CF-DA00-43D1-951D-56BEBFCAA5E5",
+    "guides": [
+      890,
+      1270
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A7006D2C-9427-45D4-8B8B-8E749EC8D8E7"
+    },
+    {
+      "class": "text",
+      "id": "DD095826-8F2F-4B0C-9636-AE530FAE93D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8DB4BB2-CBDB-4ADD-8062-AE33EA0C6EBE"
+    },
+    {
+      "class": "group",
+      "id": "0C3BEE0D-63F6-4B49-AB3B-2CE64D552752"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B620AA49-C2B0-49B3-8C86-5B02491813B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B9B1A78-684B-4D11-9C41-C75CBCD22CEF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55C88647-57FD-43E0-BCA5-179E3C082E2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2B9E4FB-747A-4993-B657-586FEE168EB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC896A3B-3ED2-491A-B9B0-32E97373BE22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A29219E9-20E6-4706-9C25-E9C775C2364F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "664FA06A-FF69-48DE-900B-61B0E9093D96"
+    },
+    {
+      "class": "rectangle",
+      "id": "99B18DE4-B4C9-4301-BFEB-C47248807B3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAC24086-9A7B-4892-A15B-BAAD9CF641CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B56A0A11-88D2-4161-AE69-AAFD39CBAC33"
+    },
+    {
+      "class": "text",
+      "id": "FCC576DC-36CF-4150-8E6D-6E80607EF057"
+    },
+    {
+      "class": "group",
+      "id": "67B366C2-F445-4D35-B332-E4516601B874"
+    }
+  ],
+  "name": "5.4 Registro de Afiliado - Datos de vehiculo - vacio",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF2A5D82-C2E3-4D10-A394-4AD997C3F67C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "018F678D-1753-47AB-BBFA-DA39DAD27D9F",
+    "guides": [
+    ]
+  }
+}

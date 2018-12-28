@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FE32972-BFBF-4EE0-9154-C8F0E8D348D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69959C12-3BFF-4EE2-BDEB-B528D5223729",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E52397D6-7A99-404D-BCD6-1754F6699C8D",
+    "height": 65,
+    "width": 480,
+    "x": 208,
+    "y": 486
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F9DF21-19E8-4C50-A749-AD63F7820629",
+      "overrideName": "8CA284AA-7F21-4DBE-B087-E92E12186C8E_stringValue",
+      "value": "Ingresa la dirección"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BB0D543-BDAB-418E-BB81-5DF5C86D31EF",
+      "overrideName": "61DA5C59-6BB5-4732-A4A8-3D39A24B69C5_symbolID",
+      "value": "6E543129-8C6B-4774-A1C3-00C9E73D29FB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "193B21CA-8A7F-4232-9A12-DE3B3E51736E",
+      "overrideName": "8CA284AA-7F21-4DBE-B087-E92E12186C8E_textStyle",
+      "value": "8E5CC92E-05D6-41C4-A84E-A9A64EA52E3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACA6C72E-1B82-4FA8-A497-6CCEBBF3DA6A",
+      "overrideName": "C981A06C-4B10-4B6E-872F-42B62F439AD2_symbolID",
+      "value": "6E543129-8C6B-4774-A1C3-00C9E73D29FB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "776FC8EE-C8AF-4CD1-943B-3FEF144CA55F",
+      "overrideName": "E9AD0811-282A-4AC3-8C8A-65A9074558FB_stringValue",
+      "value": "Av. Benavides 1011"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97DEBA3D-419D-4645-A63B-AE277241D8BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "842455A2-28D9-4186-A05D-C9602947D1B5",
+  "verticalSpacing": 0
+}
